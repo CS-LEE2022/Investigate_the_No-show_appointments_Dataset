@@ -14,7 +14,7 @@ This dataset collects information from 100k medical appointments in Brazil and i
 ![alt text](https://images.pexels.com/photos/40568/medical-appointment-doctor-healthcare-40568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
 
 
-Image is from a copyright-free website: https://www.pexels.com/royalty-free-images/.
+(Image is from a copyright-free website: https://www.pexels.com/royalty-free-images/.)
 
 
 - ScheduledDay tells us on what day the patient set up their appointment;
